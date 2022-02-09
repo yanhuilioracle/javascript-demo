@@ -1,0 +1,20 @@
+{
+  "name": "construction_site_clearing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  },
+  "scripts": {
+    "test": "npx jasmine spec/**/*Spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
